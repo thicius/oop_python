@@ -1,0 +1,16 @@
+# Veremos no Curso
+
+Pilares da P.O.O.:
+Encapsulamento
+Herança
+Polimorfismo
+
+Classe:
+representa a abstração de caracterísitcas e ações
+
+Classe:
+Atributos = "características"
+Métodos = "ações"
+
++meu_atributo: string
++meu_metodo(): None
